@@ -1,4 +1,5 @@
-![Image banner representing me](https://github-production-user-asset-6210df.s3.amazonaws.com/141361486/275665895-b06b9423-27ce-4656-b513-18ff03f7b6f1.jpg)
+![Image banner representing me](https://github-production-user-asset-6210df.s3.amazonaws.com/141361486/275666340-acc8d1d4-c099-46f9-b1b7-b02ff5f27f28.jpg)
+
 
 
 # Welcome to my GitHub account
