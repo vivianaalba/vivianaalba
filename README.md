@@ -13,7 +13,8 @@ role after the fellowship. In me freetime, I enjoy spending time with loved ones
 ### Technologies
 I am currently learning Git, Javascript, and Python.
 
-#### You may reach me via email at vivianaalba7@gmail.com
+#### You may reach me via email at vivianaalba7@gmail.com or on [LinkedIn](https://www.linkedin.com/in/vivianaalba/).
+#### Additional work can be found [here](https://vivianaalba.github.io/).
 
 <!---
 vivianaalba/vivianaalba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
