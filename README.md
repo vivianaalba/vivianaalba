@@ -1,4 +1,5 @@
-!(https://raw.githubusercontent.com/vivianaalba/vivianaalba.github.io/main/Electronic%20Medium%20Banner.jpg)
+!(https://github.com/vivianaalba/vivianaalba/assets/141361486/b06b9423-27ce-4656-b513-18ff03f7b6f1)
+
 
 # Welcome to my GitHub account
 
