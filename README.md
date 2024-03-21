@@ -8,8 +8,9 @@ I started my career in clinical research, captivated by the cutting-edge technol
 I am a full-stack developer dedicated to building secure, reliable, and intuitive applications. My expertise lies in delivering solutions that are not only scalable but also aesthetically pleasing. With a sharp eye for design and a commitment to writing clean, readable code, I strive to elevate user experiences and exceed expectations on every device.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vivianaalba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivianaalba" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/vivianaalba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivianaalba" height="30" width="40" /></a><p align="center">Email: vivianaalba7@gmail.com</p><br>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
