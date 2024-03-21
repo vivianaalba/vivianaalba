@@ -1,4 +1,4 @@
-<h1 align="center">A Passionate Full Stack Developer from Los Angeles</h1>
+<h1 align="center">Welcome!</h1>
 
 ![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/vivianaalba/vivianaalba/assets/141361486/0f54d20a-6e71-49ac-af2b-632c0c99a974)
 
