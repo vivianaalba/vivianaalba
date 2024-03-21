@@ -1,20 +1,20 @@
-![Image banner representing me](https://github-production-user-asset-6210df.s3.amazonaws.com/141361486/275666340-acc8d1d4-c099-46f9-b1b7-b02ff5f27f28.jpg)
+<h1 align="center">A Passionate Full Stack Developer from Los Angeles</h1>
 
+![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/vivianaalba/vivianaalba/assets/141361486/0f54d20a-6e71-49ac-af2b-632c0c99a974)
 
+<h3 align="left">About Me</h3>
+I started my career in clinical research, captivated by the cutting-edge technology revolutionizing the field of medicine. Conducting research on innovative technology, such as imaging devices and surgical tools, I developed a passion for technology as I witnessed its leading impact in life-saving breakthroughs within healthcare. <br><br>
 
-# Welcome to my GitHub account
+I am a full-stack developer dedicated to building secure, reliable, and intuitive applications. My expertise lies in delivering solutions that are not only scalable but also aesthetically pleasing. With a sharp eye for design and a commitment to writing clean, readable code, I strive to elevate user experiences and exceed expectations on every device.
 
-## About Me and My Career
-Hello everyone, my name is Viviana Alba and I am a web development fellow at The KNowledge House. I have a a background in healthcare and molecular biology. I am a graduate of the 
-Univeristy of California, Santa Cruz with a B.S. in Molecular, Cell, and Development Biology and a B.A. in Latin American and Latino Studies. After graduation, I began working in clinical 
-research, which showed me how the power of technology and data can truly change the world. I am passionate about data ethics and diversity, and hope to pursue a junior web development 
-role after the fellowship. In me freetime, I enjoy spending time with loved ones, going to the gym, and going to concerts.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vivianaalba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivianaalba" height="30" width="40" /></a>
+</p>
 
-### Technologies
-I am currently learning Git, Javascript, and Python.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-#### You may reach me via email at vivianaalba7@gmail.com or on [LinkedIn](https://www.linkedin.com/in/vivianaalba/).
-#### Additional work can be found [here](https://vivianaalba.github.io/).
 
 <!---
 vivianaalba/vivianaalba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
