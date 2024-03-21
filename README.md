@@ -3,7 +3,7 @@
 ![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/vivianaalba/vivianaalba/assets/141361486/0f54d20a-6e71-49ac-af2b-632c0c99a974)
 
 <h3 align="left">About Me</h3>
-Hello! My name is Viviana Alba and I am a web developer located in Los Angeles, CA.<br><br>
+Hello! My name is Viviana Alba and I am a full-stack developer located in Los Angeles, CA.<br><br>
 
 I started my career in clinical research, captivated by the cutting-edge technology revolutionizing the field of medicine. Conducting research on innovative technology, such as imaging devices and surgical tools, I developed a passion for technology as I witnessed its leading impact in life-saving breakthroughs within healthcare. <br><br>
 
