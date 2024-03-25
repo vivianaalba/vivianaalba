@@ -37,10 +37,10 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
     <h3 align="center">Meme Generator</h3>
     <p align="center">
       <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/2f143784-ce5d-4ff2-8e33-8a1398282d8d" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
       </a>
       <a href="https://github.com/vivianaalba/meme-generator-feb14" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
       </a>
     </p>
     <p>
@@ -50,14 +50,14 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
     </p>
   </td>
 
-   <td width="50%" valign="top"">
+  <td width="50%" valign="top"">
     <h3 align="center">Meme Generator</h3>
     <p align="center">
       <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/2f143784-ce5d-4ff2-8e33-8a1398282d8d" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
       </a>
       <a href="https://github.com/vivianaalba/meme-generator-feb14" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
       </a>
     </p>
     <p>
@@ -69,41 +69,7 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 </tr>
 
 <!--- ROW 2 --->
-<tr>
-  <td width="50%" valign="top"">
-    <h3 align="center">Meme Generator</h3>
-    <p align="center">
-      <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/2f143784-ce5d-4ff2-8e33-8a1398282d8d" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
-      <a href="https://github.com/vivianaalba/meme-generator-feb14" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
-    </p>
-    <p>
-      <strong>Tech:</strong> Javascript, HTML, CSS<br>
-      <strong>Packages:</strong> vite, react <br>
-      Fetches the most popular meme images from a secure API and allows users to add custom text to these images.
-    </p>
-  </td>
 
-   <td width="50%" valign="top"">
-    <h3 align="center">Meme Generator</h3>
-    <p align="center">
-      <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/2f143784-ce5d-4ff2-8e33-8a1398282d8d" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
-      <a href="https://github.com/vivianaalba/meme-generator-feb14" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
-    </p>
-    <p>
-      <strong>Tech:</strong> Javascript, HTML, CSS<br>
-      <strong>Packages:</strong> vite, react <br>
-      Fetches the most popular meme images from a secure API and allows users to add custom text to these images.
-    </p>
-  </td>
-</tr>
 
 </table>
 
