@@ -45,25 +45,27 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
     </p>
     <p>
       <strong>Tech:</strong> Javascript, HTML, CSS<br>
-      <strong>Packages:</strong> vite, react <br>
+      <strong>Libraries:</strong> react <br>
+       <strong>Tools:</strong> vite <br>
       Fetches the most popular meme images from a secure API and allows users to add custom text to these images.
     </p>
   </td>
 
   <td width="50%" valign="top"">
-    <h3 align="center">Meme Generator</h3>
+    <h3 align="center">Pokemon Directory</h3>
     <p align="center">
-      <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/2f143784-ce5d-4ff2-8e33-8a1398282d8d" target="_blank" style="display: inline-block; margin-right: 10px;">
+      <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/4c609fd8-73a6-471a-a102-808c06451f11" target="_blank" style="display: inline-block; margin-right: 10px;">
         <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
       </a>
-      <a href="https://github.com/vivianaalba/meme-generator-feb14" target="_blank" style="display: inline-block;">
+      <a href="https://github.com/vivianaalba/pokemon-api-feb21" target="_blank" style="display: inline-block;">
         <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
       </a>
     </p>
     <p>
       <strong>Tech:</strong> Javascript, HTML, CSS<br>
-      <strong>Packages:</strong> vite, react <br>
-      Fetches the most popular meme images from a secure API and allows users to add custom text to these images.
+      <strong>Libraries:</strong> react, axios, swr, react-dom <br>
+       <strong>Tools:</strong> vite <br>
+      This application retrieves Pokémon data, such as names, types, and images, from an external API and is brought together with a dynamic UI and themed music.
     </p>
   </td>
 </tr>
@@ -80,3 +82,5 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 vivianaalba/vivianaalba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
