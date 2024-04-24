@@ -1,6 +1,7 @@
 <h1 align="center">Welcome!</h1>
 
-![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/vivianaalba/vivianaalba/assets/141361486/0f54d20a-6e71-49ac-af2b-632c0c99a974)
+![Black Gradient Minimalistic Future Technology YouTube Banner (3)](https://github.com/vivianaalba/vivianaalba/assets/141361486/c05d3e8e-160c-4565-bb21-ba375e38d8b3)
+
 
 <!--- ABOUT ME SECTION --->
 <h3 align="left">About Me</h3>
@@ -16,7 +17,7 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/vivianaalba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivianaalba" height="30" width="40" /></a><p align="center">Email: vivianaalba7@gmail.com</p>
-</p>
+
 
 <!--- TECH SECTION --->
 <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +25,7 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 <b>Technical:</b> JavaScript, React, MongoDB, CSS, HTML, Python, SQL, R, Tableau, Bootstrap, Tailwind<br>
 <b>Productivity:</b> Microsoft Office,  Slack, Asana, Google Workspace, Trello<br>
 <b>Languages:</b> Spanish (Fluent)
-</p>
+
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <!--- PROJECTS SECTION --->
