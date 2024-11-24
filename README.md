@@ -43,9 +43,6 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
       <a href="https://github.com/vivianaalba/MERN-github-application" target="_blank" style="display: inline-block;">
         <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
       </a>
-      <a href="https://mern-github-application.onrender.com/" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/dfdf937d-86ad-410d-a96f-cdc51015f69c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
     </p>
     <p>
       <strong>Tech:</strong> Javascript, HTML, CSS<br>
