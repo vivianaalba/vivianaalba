@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-![Black Gradient Minimalistic Future Technology YouTube Banner (3)](https://github.com/vivianaalba/vivianaalba/assets/141361486/c05d3e8e-160c-4565-bb21-ba375e38d8b3)
+![Header Photo with Name](https://github.com/user-attachments/assets/8a231739-f304-4ed4-b81c-9a7878ad0b34)
 
 
 <!--- ABOUT ME SECTION --->
@@ -8,8 +8,6 @@
 Hello! My name is Viviana Alba and I am a full-stack developer located in Los Angeles, CA.<br><br>
 
 I started my career in clinical research, captivated by the cutting-edge technology revolutionizing the field of medicine. Conducting research on innovative technology, such as imaging devices and surgical tools, I developed a passion for technology as I witnessed its leading impact in life-saving breakthroughs within healthcare. <br><br>
-
-I am a full-stack developer dedicated to building secure, reliable, and intuitive applications. My expertise lies in delivering solutions that are not only scalable but also aesthetically pleasing. With a sharp eye for design and a commitment to writing clean, readable code, I strive to elevate user experiences and exceed expectations on every device.<br><br>
 
 I am eager to connect with like-minded professionals, mentors, and collaborators. Let’s share ideas, explore potential collaborations, and produce equitable technology for the good of all!
 
@@ -22,7 +20,7 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 <!--- TECH SECTION --->
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<b>Technical:</b> JavaScript, React, MongoDB, CSS, HTML, Python, SQL, R, Tableau, Bootstrap, Tailwind<br>
+<b>Technical:</b> Python, SQL, R, JavaScript, React, MongoDB, CSS, HTML, Tableau, Bootstrap, Tailwind<br>
 <b>Productivity:</b> Microsoft Office,  Slack, Asana, Google Workspace, Trello<br>
 <b>Languages:</b> Spanish (Fluent)
 
