@@ -5,11 +5,11 @@
 
 <!--- ABOUT ME SECTION --->
 <h3 align="left">About Me</h3>
-Hello! My name is Viviana Alba and I am a full-stack developer located in Los Angeles, CA.<br><br>
+Hello! My name is Viviana Alba and I am a data professional located in Los Angeles, CA.<br><br>
 
 I started my career in clinical research, captivated by the cutting-edge technology revolutionizing the field of medicine. Conducting research on innovative technology, such as imaging devices and surgical tools, I developed a passion for technology as I witnessed its leading impact in life-saving breakthroughs within healthcare. <br><br>
 
-I am eager to connect with like-minded professionals, mentors, and collaborators. Let’s share ideas, explore potential collaborations, and produce equitable technology for the good of all!
+I am eager to connect with like-minded professionals, mentors, and collaborators. Let’s share ideas, explore potential collaborations, and develop equitable technology for the benefit of all.
 
 <!--- CONNECT SECTION --->
 <h3 align="left">Connect with me:</h3>
