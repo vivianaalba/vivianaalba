@@ -47,7 +47,6 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
     </p>
   </td>
 
-<tr>
   <td width="50%" valign="top"">
     <h3 align="center">GitHub App</h3>
     <p align="center">
@@ -65,10 +64,12 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
       Full-stack application was designed to create a personalized and enhances GitHub experience. Seamlessly log in to your GitHub account through a secure API to favorite users and create an interactive learning environment.
     </p>
   </td>
+</tr>
 
 
 <!--- ROW 2 --->
-<td width="50%" valign="top"">
+<tr>
+  <td width="50%" valign="top"">
     <h3 align="center">Pokemon Directory</h3>
     <p align="center">
       <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/4c609fd8-73a6-471a-a102-808c06451f11" target="_blank" style="display: inline-block; margin-right: 10px;">
@@ -85,7 +86,6 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
       This application retrieves Pokémon data, such as names, types, and images, from an external API and is brought together with a dynamic UI and themed music.
     </p>
   </td>
-</tr>
 
   <td width="50%" valign="top"">
     <h3 align="center">Authentication App</h3>
