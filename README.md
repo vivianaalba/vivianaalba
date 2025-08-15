@@ -48,6 +48,25 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
   </td>
 
   <td width="50%" valign="top"">
+    <h3 align="center">ML Trash Classifier</h3>
+    <p align="center">
+      <a href="https://github.com/vivianaalba/ml-trash-sorter" target="_blank" style="display: inline-block;">
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+      </a>
+    </p>
+    <p>
+      <strong>Tech:</strong> Javascript, HTML, CSS<br>
+      <strong>Libraries:</strong> numpy, pandas, matplotlib, seaborn, Pillow, tensorflow, scikit-learn <br>
+      A 9-class image classification task using transfer learning to compare the performance of four deep learning architectures (ResNet50, ResNet101, EfficientNetB0, and VGG16) using advanced data augmentation and performance evaluation across training, validation, and test datasets.
+    </p>
+  </td>
+</tr>
+
+
+<!--- ROW 2 --->
+<tr>
+  
+  <td width="50%" valign="top"">
     <h3 align="center">GitHub App</h3>
     <p align="center">
       <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/ae9f5a7a-5aa7-48db-accb-aabf7487b084" target="_blank" style="display: inline-block; margin-right: 10px;">
@@ -64,11 +83,7 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
       Full-stack application was designed to create a personalized and enhances GitHub experience. Seamlessly log in to your GitHub account through a secure API to favorite users and create an interactive learning environment.
     </p>
   </td>
-</tr>
-
-
-<!--- ROW 2 --->
-<tr>
+  
   <td width="50%" valign="top"">
     <h3 align="center">Pokemon Directory</h3>
     <p align="center">
@@ -87,23 +102,6 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
     </p>
   </td>
 
-  <td width="50%" valign="top"">
-    <h3 align="center">Authentication App</h3>
-    <p align="center">
-      <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/49e31622-400c-4f0c-a091-3a2665285bc1" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
-      <a href="https://github.com/vivianaalba/authentication-application" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
-    </p>
-    <p>
-      <b>Tech:</b> Javascript, HTML, CSS<br/>
-      <b>Libraries:</b> passport, prisma, bcrypt, EJS, express, dotenv<br/>
-      <b>Tools:</b> nodemon, passport-local, mongoDB<br/>
-      This application offers create and read functionalities without worrying about security risks. Developed with built in security features, such as user authentication, encryption, and the use of a secure database.
-    </p>
-  </td>
 </tr>
 
 
