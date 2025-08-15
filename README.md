@@ -55,7 +55,7 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
       </a>
     </p>
     <p>
-      <strong>Tech:</strong> Javascript, HTML, CSS<br>
+      <strong>Tech:</strong> Python<br>
       <strong>Libraries:</strong> numpy, pandas, matplotlib, seaborn, Pillow, tensorflow, scikit-learn <br>
       A 9-class image classification task using transfer learning to compare the performance of four deep learning architectures (ResNet50, ResNet101, EfficientNetB0, and VGG16) using advanced data augmentation and performance evaluation across training, validation, and test datasets.
     </p>
