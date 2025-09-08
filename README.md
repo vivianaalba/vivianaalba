@@ -1,14 +1,11 @@
 
 <img width="6250" height="3571" alt="header" src="https://github.com/user-attachments/assets/4d30f557-f65c-4bfa-8fbb-d5e46d01aed0" />
 
-
-
-
 <!--- ABOUT ME SECTION --->
 <h3 align="left">About Me</h3>
 Hello! My name is Viviana Alba and I am a data professional located in Los Angeles, CA.<br><br>
 
-I started my career in clinical research, captivated by the cutting-edge technology revolutionizing the field of medicine. Conducting research on innovative technology, such as imaging devices and surgical tools, I developed a passion for technology as I witnessed its leading impact in life-saving breakthroughs within healthcare. <br><br>
+I started my career in clinical research, captivated by the cutting-edge technology revolutionizing the field of medicine. Conducting research on innovative technology, such as imaging devices and surgical tools, I developed a passion for technology as I witnessed its leading impact in life-saving breakthroughs within healthcare. I am currently pursuing a Master's in Applied Data Science at the University of Southern California. Scroll to see a collection of my work, skills, and interests! <br>
 
 I am eager to connect with like-minded professionals, mentors, and collaborators. Let’s share ideas, explore potential collaborations, and develop equitable technology for the benefit of all.
 
@@ -21,11 +18,11 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 <!--- TECH SECTION --->
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<b>Technical:</b> Python, SQL, R, JavaScript, React, MongoDB, CSS, HTML, Tableau, Bootstrap, Tailwind<br>
-<b>Productivity:</b> Microsoft Office,  Slack, Asana, Google Workspace, Trello<br>
+<b>Programming & Data Science:</b> Python (pandas, numpy, regex, scikit-learn, tensorflow/keras, pytorch), R, SQL, MATLAB, SPSS <br>
+<b>Data Engineering & Tools:</b> PySpark, Dask, MongoDB, DynamoDB, BeautifulSoup, Requests <br>
+<b>Visualization & Reporting:</b> matplotlib, seaborn, Tableau <br>
+<b>Web Development:</b> JavaScript, React, CSS, HTML<br>
 <b>Languages:</b> Spanish (Fluent)
-
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <!--- PROJECTS SECTION --->
 <h1 align="center">Projects</h1>
