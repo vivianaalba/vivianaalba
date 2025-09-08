@@ -64,20 +64,16 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 <tr>
   
   <td width="50%" valign="top"">
-    <h3 align="center">GitHub App</h3>
+    <h3 align="center">ML Time Series Classification</h3>
     <p align="center">
-      <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/ae9f5a7a-5aa7-48db-accb-aabf7487b084" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
-      <a href="https://github.com/vivianaalba/MERN-github-application" target="_blank" style="display: inline-block;">
+      <a href="https://github.com/vivianaalba/ml-timeseries-features" target="_blank" style="display: inline-block;">
         <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
       </a>
     </p>
     <p>
-      <strong>Tech:</strong> Javascript, HTML, CSS<br>
-      <strong>Libraries:</strong> react, express, cors, mongoose, nodemon, passport <br>
-      <strong>Tools:</strong> vite, dotenv, mongoDB <br>
-      Full-stack application was designed to create a personalized and enhances GitHub experience. Seamlessly log in to your GitHub account through a secure API to favorite users and create an interactive learning environment.
+      <strong>Tech:</strong> Python<br>
+      <strong>Libraries:</strong> scikit-learn, scipy, bootstrapped, matplotlib, numpy, pandas, seaborn <br>
+      This project explores time-series classification using feature engineering and classical machine learning methods. We extract statistical features from raw sensor signals, build classifiers (including logistic regression, multinomial regression, and Naïve Bayes), and evaluate them using robust resampling techniques.
     </p>
   </td>
   
