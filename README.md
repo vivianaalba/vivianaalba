@@ -22,7 +22,6 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 <b>Data Engineering & Tools:</b> PySpark, Dask, MongoDB, DynamoDB, BeautifulSoup, Requests <br>
 <b>Visualization & Reporting:</b> matplotlib, seaborn, Tableau <br>
 <b>Web Development:</b> JavaScript, React, CSS, HTML<br>
-<b>Languages:</b> Spanish (Fluent)
 
 <!--- PROJECTS SECTION --->
 <h1 align="center">Projects</h1>
