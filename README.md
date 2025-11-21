@@ -62,6 +62,23 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 
 <!--- ROW 2 --->
 <tr>
+
+  <td width="50%" valign="top"">
+    <h3 align="center">Data Processing Dashboard</h3>
+    <p align="center">
+      <!-- <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/4c609fd8-73a6-471a-a102-808c06451f11" target="_blank" style="display: inline-block; margin-right: 10px;">
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+      </a> -->
+      <a href="https://github.com/vivianaalba/dsci551-project" target="_blank" style="display: inline-block;">
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+      </a>
+    </p>
+    <p>
+      <strong>Tech:</strong>Python<br>
+      <strong>Libraries:</strong>Streamlit<br>
+      A web application that parses, filters, projects, groups, aggregates, and joins CSV datasets using custom Python functions with an easy-to-use UI interface.
+    </p>
+  </td>
   
   <td width="50%" valign="top"">
     <h3 align="center">ML Time Series Classification</h3>
@@ -74,24 +91,6 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
       <strong>Tech:</strong> Python<br>
       <strong>Libraries:</strong> scikit-learn, scipy, bootstrapped, matplotlib, numpy, pandas, seaborn <br>
       This project explores time-series classification using feature engineering and classical machine learning methods. We extract statistical features from raw sensor signals, build classifiers (including logistic regression, multinomial regression, and Naïve Bayes), and evaluate them using robust resampling techniques.
-    </p>
-  </td>
-  
-  <td width="50%" valign="top"">
-    <h3 align="center">Pokemon Directory</h3>
-    <p align="center">
-      <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/4c609fd8-73a6-471a-a102-808c06451f11" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
-      <a href="https://github.com/vivianaalba/pokemon-api-feb21" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a>
-    </p>
-    <p>
-      <strong>Tech:</strong> Javascript, HTML, CSS<br>
-      <strong>Libraries:</strong> react, axios, swr, react-dom <br>
-      <strong>Tools:</strong> vite <br>
-      This application retrieves Pokémon data, such as names, types, and images, from an external API and is brought together with a dynamic UI and themed music.
     </p>
   </td>
 
