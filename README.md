@@ -96,6 +96,42 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 
 </tr>
 
+<!--- ROW 3 --->
+<tr>
+
+  <td width="50%" valign="top"">
+    <h3 align="center">Car Recalls Clustering</h3>
+    <p align="center">
+      <!-- <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/4c609fd8-73a6-471a-a102-808c06451f11" target="_blank" style="display: inline-block; margin-right: 10px;">
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+      </a> -->
+      <a href="https://github.com/vivianaalba/car-recalls-clustering" target="_blank" style="display: inline-block;">
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+      </a>
+    </p>
+    <p>
+      <strong>Tech:</strong>Python<br>
+      <strong>Libraries:</strong>pandas, numpy, scikit-learn, seaborn, matplotlib<br>
+      Using unsupervised learning, this collaborative group project clusters 60 years of NHTSA recall data to uncover patterns in vehicle safety severity across manufacturers, components, and time.
+    </p>
+  </td>
+  
+  <td width="50%" valign="top"">
+    <h3 align="center">SPA Portfolio</h3>
+    <p align="center">
+      <a href="https://github.com/vivianaalba/SPA-portfolio" target="_blank" style="display: inline-block;">
+        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+      </a>
+    </p>
+    <p>
+      <strong>Tech:</strong>Javascript, HTML, React<br>
+      <strong>Libraries:</strong>Vite<br>
+      Personal website that conains my projects -- currently in development!
+    </p>
+  </td>
+
+</tr>
+
 
 </table>
 
