@@ -85,7 +85,7 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
              title="View Project Report"
              src="https://github.com/user-attachments/assets/38814226-07a8-4a41-a6e4-6967c12a4f46" />
       </a>
-      <a href="https://github.com/vivianaalba/car-recalls-clustering" target="_blank" style="display: inline-block;">
+      <a href="https://drive.google.com/file/d/1SVuxNNcLUgegxlZSn5dmRNdI5-kEFO3D/view?usp=sharing" target="_blank" style="display: inline-block;">
         <img height="60" alt="demo" src="https://github.com/user-attachments/assets/d72355d4-623d-4fd7-ace8-d131c59d1446" />
       </a>
     </p>
