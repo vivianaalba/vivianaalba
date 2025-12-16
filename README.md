@@ -16,12 +16,13 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 
 
 <!--- TECH SECTION --->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Skills:</h3>
 <p>
-<b>Programming & Data Science:</b> Python (pandas, numpy, regex, scikit-learn, tensorflow/keras, pytorch), R, SQL, MATLAB, SPSS <br>
-<b>Data Engineering & Tools:</b> PySpark, Dask, MongoDB, DynamoDB, BeautifulSoup, Requests <br>
-<b>Visualization & Reporting:</b> matplotlib, seaborn, Tableau <br>
-<b>Web Development:</b> JavaScript, React, CSS, HTML<br>
+<b>AI / Machine Learning:</b> Deep Learning (TensorFlow / Keras, PyTorch), Computer Vision (CNNs, Transfer Learning), Machine Learning (scikit-learn, supervised & unsupervised learning, model evaluation), Data Preparation (feature engineering, data augmentation, normalization)<br>
+<b>Programming & Data Science:</b> Python (pandas, NumPy, regex, BeautifulSoup, Requests), SQL, R, SPSS<br>
+<b>Data Engineering & Processing:</b> PySpark, NoSQL (MongoDB, DynamoDB), Hadoop (MapReduce, HDFS)<br>
+<b>Visualization & Analytics:</b> matplotlib, seaborn, Tableau, PowerBI<br>
+<b>Web Development:</b> JavaScript, React, HTML, CSS<br>
 
 <!--- PROJECTS SECTION --->
 <h1 align="center">Projects</h1>
