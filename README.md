@@ -34,7 +34,15 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
     <h3 align="center">College Comparison Analysis</h3>
     <p align="center">
       <a href="https://github.com/vivianaalba/college-comparison-project" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+        <img height="60" alt="github" src="https://github.com/user-attachments/assets/8cb867da-23ec-48a5-8d77-118da362daaa" />
+      </a>
+      <a href="https://github.com/user-attachments/files/24179876/Final_Project_Viviana_Alba.pdf"
+         target="_blank"
+         style="display: inline-block;">
+        <img height="60"
+             alt="Final Project Report (PDF)"
+             title="View Project Report"
+             src="https://github.com/user-attachments/assets/38814226-07a8-4a41-a6e4-6967c12a4f46" />
       </a>
     </p>
     <p>
@@ -48,7 +56,7 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
     <h3 align="center">ML Trash Classifier</h3>
     <p align="center">
       <a href="https://github.com/vivianaalba/ml-trash-sorter" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+        <img height="60" alt="github" src="https://github.com/user-attachments/assets/8cb867da-23ec-48a5-8d77-118da362daaa" />
       </a>
     </p>
     <p>
@@ -66,11 +74,19 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
   <td width="50%" valign="top"">
     <h3 align="center">Data Processing Dashboard</h3>
     <p align="center">
-      <!-- <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/4c609fd8-73a6-471a-a102-808c06451f11" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a> -->
       <a href="https://github.com/vivianaalba/dsci551-project" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+        <img height="60" alt="github" src="https://github.com/user-attachments/assets/8cb867da-23ec-48a5-8d77-118da362daaa" />
+      </a>
+      <a href="https://github.com/user-attachments/files/24179957/Data_Processing_Report.pdf"
+         target="_blank"
+         style="display: inline-block;">
+        <img height="60"
+             alt="Data Processing Report (PDF)"
+             title="View Project Report"
+             src="https://github.com/user-attachments/assets/38814226-07a8-4a41-a6e4-6967c12a4f46" />
+      </a>
+      <a href="https://github.com/vivianaalba/car-recalls-clustering" target="_blank" style="display: inline-block;">
+        <img height="60" alt="demo" src="https://github.com/user-attachments/assets/d72355d4-623d-4fd7-ace8-d131c59d1446" />
       </a>
     </p>
     <p>
@@ -83,8 +99,9 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
   <td width="50%" valign="top"">
     <h3 align="center">ML Time Series Classification</h3>
     <p align="center">
-      <a href="https://github.com/vivianaalba/ml-timeseries-features" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+      </a>
+            <a href="https://github.com/vivianaalba/ml-timeseries-features" target="_blank" style="display: inline-block;">
+        <img height="60" alt="github" src="https://github.com/user-attachments/assets/8cb867da-23ec-48a5-8d77-118da362daaa" />
       </a>
     </p>
     <p>
@@ -102,11 +119,16 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
   <td width="50%" valign="top"">
     <h3 align="center">Car Recalls Clustering</h3>
     <p align="center">
-      <!-- <a href="https://github.com/vivianaalba/vivianaalba/assets/141361486/4c609fd8-73a6-471a-a102-808c06451f11" target="_blank" style="display: inline-block; margin-right: 10px;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/fff5eb60-442b-4133-a0fa-051f3023614b" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
-      </a> -->
       <a href="https://github.com/vivianaalba/car-recalls-clustering" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+        <img height="60" alt="github" src="https://github.com/user-attachments/assets/8cb867da-23ec-48a5-8d77-118da362daaa" />
+      </a>
+      <a href="https://github.com/user-attachments/files/24179923/Car_Recalls_Report.pdf"
+         target="_blank"
+         style="display: inline-block;">
+        <img height="60"
+             alt="Car Recalls Report (PDF)"
+             title="View Project Report"
+             src="https://github.com/user-attachments/assets/38814226-07a8-4a41-a6e4-6967c12a4f46" />
       </a>
     </p>
     <p>
@@ -115,18 +137,22 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
       Using unsupervised learning, this collaborative group project clusters 60 years of NHTSA recall data to uncover patterns in vehicle safety severity across manufacturers, components, and time.
     </p>
   </td>
+
   
   <td width="50%" valign="top"">
     <h3 align="center">SPA Portfolio</h3>
     <p align="center">
       <a href="https://github.com/vivianaalba/SPA-portfolio" target="_blank" style="display: inline-block;">
-        <img src="https://github.com/vivianaalba/vivianaalba/assets/141361486/f3ac33ef-cd73-4d56-b662-3f9acba3f36c" style="width: 90px; height: 50px; border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+        <img height="60" alt="github" src="https://github.com/user-attachments/assets/8cb867da-23ec-48a5-8d77-118da362daaa" />
+      </a>
+      <a href="https://vivianaalba.netlify.app/" target="_blank" style="display: inline-block;">
+        <img height="60" alt="link" src="https://github.com/user-attachments/assets/1f4dd0c4-0e72-48cd-91dd-9cb77efbae8a" />
       </a>
     </p>
     <p>
       <strong>Tech:</strong>Javascript, HTML, React<br>
       <strong>Libraries:</strong>Vite<br>
-      Personal website that conains my projects -- currently in development!
+      Personal website developed using React to highlight a few of my projects.
     </p>
   </td>
 
@@ -134,4 +160,9 @@ I am eager to connect with like-minded professionals, mentors, and collaborators
 
 
 </table>
+
+
+
+
+
 
